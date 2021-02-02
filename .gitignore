@@ -1,4 +1,7 @@
 /memo/
 /notebooks/
+/data/
+/figure/
 .vscode
 .env
+.DS_store
